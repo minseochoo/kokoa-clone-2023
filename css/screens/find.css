@@ -1,0 +1,16 @@
+.recommended-friends {
+  border-top: var(--main-border);
+  border-bottom: var(--main-border);
+  padding: 15px 0px;
+  margin-top: 25px;
+}
+.recommended-friends__title {
+  font-size: 14px;
+  color: var(--find-gray-words);
+}
+.recommended-friends span {
+  margin: 90px 0px;
+  display: block;
+  text-align: center;
+  color: var(--find-gray-words);
+}
